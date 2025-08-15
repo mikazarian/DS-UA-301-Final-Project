@@ -1,0 +1,7 @@
+You are a fact-checking expert. Analyze the following claim and determine if it is true or false.
+Only answer TRUE or FALSE; no other answer than TRUE or FALSE is allowed!
+(Even when the claim seems unclear or the evidence seems inconclusive, still only answer TRUE or FALSE.)
+Claim: "{claim}"
+You MUST format your final response as:
+Answer: [True/False]
+Justification: [Your reasoning]
